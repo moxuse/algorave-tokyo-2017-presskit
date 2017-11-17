@@ -24,11 +24,11 @@ KGRN Kagurazaka https://kagurane.com
 
 ## Ticket:
 
-- Adv. 1500 + 1D
+- Adv. 1500 + 1Drink
 
-- Door 2000 + 1D
+- Door 2000 + 1Drink
 
-- Under 25 1000 + 1D (Check ID at the door)
+- Under 25 1000 + 1Drink (Check ID at the door)
 
 ## Line up:
 

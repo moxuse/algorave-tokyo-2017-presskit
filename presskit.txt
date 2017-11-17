@@ -34,7 +34,6 @@ Facebookイベントぺージ:
     - Renick Bell
     - Utah Kawasaki
     - Yousuke Fuyama
-
   VJ:
     - Akihiko Taniguchi
     - GRAINnoir

@@ -22,18 +22,18 @@ Facebookイベントぺージ:
 
 参加アーティスト:
   LIVE:
-  - Akimasa Yamada
-  - Atsushi Tadokoro
-  - Chihooka
-  - Craftwife267
-  - HydrKlank
-  - Matsumura Seiichiro
-  - Matthew Yee-king
-  - moxus
-  - Naoki Nomoto
-  - Renick Bell
-  - Utah Kawasaki
-  - Yousuke Fuyama
+    - Akimasa Yamada
+    - Atsushi Tadokoro
+    - Chihooka
+    - Craftwife267
+    - HydrKlank
+    - Matsumura Seiichiro
+    - Matthew Yee-king
+    - moxus
+    - Naoki Nomoto
+    - Renick Bell
+    - Utah Kawasaki
+    - Yousuke Fuyama
 
   VJ:
     - Akihiko Taniguchi

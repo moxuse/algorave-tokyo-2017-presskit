@@ -1,4 +1,4 @@
-![](../sqr_flyer_snap.psd)
+![](./images/algorave-tolyo-2017-sq1500.jpg)
 
 # Algorave Tokyo
 

@@ -43,6 +43,12 @@ Facebookイベントぺージ:
     - Sascacci
     - ucnv
 
+Alogoraveとは:
+    Algoraveは「条件式の繰り返しを絶え間なく送り出していくことで全面的ないしは全般的に特徴付けられた音」によって作られる。昨今では、エレクトロニック・ミュージックの殆どがソフトウェアを使って作られるが、ソフトウェアのアルゴリズムを作る人と音楽を作る人との間には人為的な障壁が存在する。アルゴリズムによる音楽やヴィジュアルを作るために設計されたIXI Lang、puredata、Max/MSP、SuperCollider、Extempore、Fluxus、TidalCycles、Gibber、Sonic Pi、FoxDotそしてCyrilといったシステムを使うことにより、その障壁は崩され、ミュージシャンは自分たちの音楽をアルゴリズムとして作曲し、そのまま生演奏することができる。このことには良い面と悪い面があるが、異なったアプローチは興味深い状況へと導いてくれる。
+ 
+    これは何も新しい考え方ではない。しかしAlgoraveは音楽を作り、音楽で踊る人間に焦点を合わせている。Algoraveのミュージシャンたちは自らのソフトウェアがクリエイティヴであるように装ったりせず、自分たちの作る音楽に対する責任を引き受け、持っている手段は何でも使って、音楽を形作る。より重要なのは、ミュージシャンがしていることにではなく音楽に、そしてそれに合わせて踊る人に焦点を合わせることだ。Algoraveは過去のレイヴとは異質なもの、奇妙な、アルゴリズムによって処理された未来的なリズムとビートを受け入れ、取り入れる。ミュージシャンがこのことに意味をもたらし、本当にクリエイティヴなことを行なって素晴らしいパーティーにできるかどうかは、ダンスフロアにいる人たちの助けによるところが大きい。
+    原文：(https://algorave.com/about/)
+
 
 --------------
 English
@@ -88,3 +94,9 @@ Line up:
     - Sascacci
     - ucnv
 
+What's Alogorave:
+    Algorave is made from “sounds wholly or predominantly characterised by the emission of a succession of repetitive conditionals“. These days just about all electronic music is made using software, but with artificial barriers between the people creating the software algorithms and the people making the music. Using systems built for creating algorithmic music and visuals, such as IXI Lang, puredata, Max/MSP, SuperCollider, Extempore, Fluxus, TidalCycles, Gibber, Sonic Pi, FoxDot and Cyril these barriers are broken down, and musicians are able to compose and work live with their music as algorithms. This has good and bad sides, but a different approach leads to interesting places.
+
+    This is no new idea, but Algoraves focus on humans making and dancing to music. Algorave musicians don’t pretend their software is being creative, they take responsibility for the music they make, shaping it using whatever means they have. More importantly the focus is not on what the musician is doing, but on the music, and people dancing to it. Algoraves embrace the alien sounds of raves from the past, and introduce alien, futuristic rhythms and beats made through strange, algorithm-aided processes. It’s up to the good people on the dancefloor to help the musicians make sense of this and do the real creative work in making a great party.
+
+    https://algorave.com/about/

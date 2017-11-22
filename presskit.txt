@@ -38,6 +38,7 @@ Facebookイベントぺージ:
     - Yousuke Fuyama
   VJ:
     - Akihiko Taniguchi
+    - amagitakayosi
     - GRAINnoir
     - Hexler
     - Sascacci
@@ -89,6 +90,7 @@ Line up:
     - Yousuke Fuyama
   VJ:
     - Akihiko Taniguchi
+    - amagitakayosi
     - GRAINnoir
     - Hexler
     - Sascacci

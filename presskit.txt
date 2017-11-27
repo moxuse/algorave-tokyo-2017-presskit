@@ -16,7 +16,7 @@ Facebookイベントぺージ:
 時間: 
   18:30 会場 / 19:00 開始 / 23:30 閉場
 場所: 
-  KGRN 神楽坂 (https://kagurane.com)
+  KGR(n) 神楽坂 (https://kagurane.com)
 チケット:
   - 前売り 1500 + 1ドリンク
   - 当日 2000 + 1ドリンク
@@ -70,7 +70,7 @@ Date:
 Time: 
   18:30 Open / 19:00 Start / 23:30 Close
 Place: 
-  KGRN Kagurazaka (https://kagurane.com)
+  KGR(n) Kagurazaka (https://kagurane.com)
 Ticket:
   - Adv. 1500 + 1Drink
   - Door 2000 + 1Drink
